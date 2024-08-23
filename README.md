@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JavaScript, Tailwind and Java**
 
-- 📫 Reach me at **aasthamodi@example.com**
+- 📫 Reach me at **missaastha11@gmail.com**
 
 - 🌱**I'm on the way to becoming a MERN stack developer.**
 
